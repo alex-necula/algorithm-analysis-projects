@@ -1,0 +1,8 @@
+in
+out
+out_testing
+other_tests
+*.o
+tester_*
+tester
+generator
